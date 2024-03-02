@@ -369,8 +369,11 @@ p>b{
    }
    #mov{
     margin-top: 10px;
-       font-size:1.1rem !important;
+       
    }
+    a#mov{
+        font-size:1.1rem !important;
+    }
    .hide{
     position: absolute;
     
